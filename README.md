@@ -102,5 +102,4 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
 ### Copyright
-
 Trilogy Education Services © 2019. All Rights Reserved.
