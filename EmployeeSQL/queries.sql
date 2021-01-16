@@ -9,7 +9,6 @@ SELECT first_name, last_name, hire_date
 FROM employees
 WHERE date_part('year', hire_date)= 1986;
 
-----NOT FINISHED-----
 --List the manager of each department with the following information: 
 --department number, department name, the manager's employee number, last name, first name.
 SELECT departments.dept_no, departments.dept_name, employees.emp_no,employees.first_name, employees.last_name
